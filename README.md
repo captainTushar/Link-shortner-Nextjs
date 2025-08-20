@@ -1,9 +1,9 @@
 # 🔗 LinkShrink
 
 <div align="center">
-  <img src="images/Screenshot1.png" alt="LinkShrink Interface" width="600"/>
+  <img src="Screenshot.png" alt="LinkShrink Interface" width="600"/>
   
-  **🚀 [Live Demo](https://link-shrink-eta.vercel.app/) 🚀**
+  **🚀 [Live Demo](https://link-shortner-nextjs-red.vercel.app/) 🚀**
 </div>
 
 A simple URL shortener that converts long URLs into short links and generates QR codes.
@@ -19,7 +19,7 @@ A simple URL shortener that converts long URLs into short links and generates QR
 
 1. **Clone & Install**
    ```bash
-   git clone https://github.com/piyush15975/link-shrink.git
+   git clone https://github.com/captainTushar/Link-shortner-Nextjs
    cd link-shrink
    npm install
    ```
@@ -41,7 +41,7 @@ A simple URL shortener that converts long URLs into short links and generates QR
 ## 📸 Screenshots
 
 ### Main Interface
-![LinkShrink App](images/Screenshot2.png)
+![LinkShrink App](Screenshot.png)
 
 ### QR Code Generation
 <div align="center">
